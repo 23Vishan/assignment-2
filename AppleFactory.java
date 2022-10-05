@@ -13,7 +13,6 @@ public class AppleFactory implements GroceryProductFactory {
         System.out.println(invTotal + " apples");
         System.out.println(invFuji + " fuji apples");
         System.out.println(invGala + " gala apples");
-        System.out.println(invHoney + " honeycrisp apples");
     }
 
     @Override
@@ -29,12 +28,6 @@ public class AppleFactory implements GroceryProductFactory {
             invTotal++;
             invGala++;
             return new GalaApple();
-        }
-        else if (productName == "Honeycrisp Apple")
-        {
-            invTotal++;
-            invHoney++;
-            return new HoneycrispApple();
         }
         else
         {

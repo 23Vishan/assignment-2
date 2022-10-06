@@ -6,7 +6,7 @@ public class Strawberry implements Product {
     String name;
     String price;
 
-    public FujiApple() {
+    public Strawberry() {
         this.name = "Strawberry";
         this.price = "$0.00";
         System.out.println("Created Strawberry");

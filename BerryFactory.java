@@ -10,7 +10,7 @@ public class BerryFactory implements GroceryProductFactory {
     {
         System.out.println("-----");
         System.out.println("Inventory:");
-        System.out.println(invTotal + " apples");
+        System.out.println(invTotal + " berries");
         System.out.println(invBlue + " blueberries");
         System.out.println(invStraw + " strawberries");
         System.out.println("-----");

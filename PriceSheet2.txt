@@ -1,0 +1,4 @@
+FujiApple $2.00
+GalaApple $1.95
+Strawberry $2.50
+Blueberry $2.40

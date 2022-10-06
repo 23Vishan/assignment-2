@@ -5,6 +5,10 @@ public class FactoryGenerator {
         {
             return new AppleFactory();
         }
+        else if (type == "Berry")
+        {
+            return new BerryFactory();
+        }
         else{
             return null;
         }

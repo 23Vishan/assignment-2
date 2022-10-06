@@ -1,9 +1,9 @@
-public class AppleFactory implements GroceryProductFactory {
+public class BerryFactory implements GroceryProductFactory {
 
     // variables used to keep track of inventory
     int invTotal = 0;
-    int invFuji = 0;
-    int invGala = 0;
+    int invBlue = 0;
+    int invStraw = 0;
 
     // returns inventory of this factory
     public void returnInventory()
@@ -11,24 +11,24 @@ public class AppleFactory implements GroceryProductFactory {
         System.out.println("-----");
         System.out.println("Inventory:");
         System.out.println(invTotal + " apples");
-        System.out.println(invFuji + " fuji apples");
-        System.out.println(invGala + " gala apples");
+        System.out.println(invBlue + " blueberries");
+        System.out.println(invStraw + " strawberries");
         System.out.println("-----");
     }
 
     @Override
     public Product makeProduct(String productName) {
-        if (productName == "Fuji Apple")
+        if (productName == "Blueberry")
         {
             invTotal++;
-            invFuji++;
-            return new FujiApple();
+            invBlue++;
+            return new Blueberry();
         }
-        else if (productName == "Gala Apple")
+        else if (productName == "Strawberry")
         {
             invTotal++;
-            invGala++;
-            return new GalaApple();
+            invStraw++;
+            return new Strawberry();
         }
         else
         {

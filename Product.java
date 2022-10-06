@@ -1,3 +1,3 @@
 public interface Product {
-    void make();
+    void setPrice(String filePath);
 }

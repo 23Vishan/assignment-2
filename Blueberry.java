@@ -1,15 +1,15 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class FujiApple implements Product {
+public class Blueberry implements Product {
     
     String name;
     String price;
 
-    public FujiApple() {
-        this.name = "FujiApple";
+    public Blueberry() {
+        this.name = "Blueberry";
         this.price = "$0.00";
-        System.out.println("Created Fuji Apple");
+        System.out.println("Created Blueberry");
     }
 
     @Override

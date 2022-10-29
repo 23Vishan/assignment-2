@@ -3,7 +3,8 @@
 ### How To Run
 Download all files into the same folder, open all files, compile Test.java
 
-### Starting Session
+### Starting Session, Adding Items, Removing Items
+![](gif1.gif)
 
 ### Adding and Removing Items
 

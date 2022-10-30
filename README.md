@@ -4,7 +4,7 @@
 Download all files into the same folder, open all files, compile Test.java
 
 ### Starting Session, Adding Items, Removing Items
-![](gif_1.gif)
+![](Gif_1.gif)
 
 ### Selecting Payment Option, Ending Session
 ![](gif_2.gif)

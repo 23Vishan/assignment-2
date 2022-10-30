@@ -21,6 +21,6 @@ Gets Printed in Terminal <br>
 <img width="533" alt="image" src="https://user-images.githubusercontent.com/94568955/198856852-fc55cba7-1fc4-48b8-9a47-aee9aa285381.png">
 
 ## Group Members
-Vishan Patel - 100784201
-Calla Wilson - 100785022
+Vishan Patel - 100784201 <br>
+Calla Wilson - 100785022 <br>
 SuryaTeja Gorthi - 100779984

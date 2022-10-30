@@ -7,7 +7,7 @@ Download all files into the same folder, open all files, compile Test.java
 ![](Gif_1.gif)
 
 ### Selecting Payment Option, Ending Session
-![](gif_2.gif)
+![](Gif_2.gif)
 
 ### Receipt
 Gets Printed in Terminal <br>

@@ -18,8 +18,7 @@ Download all files into the same folder, open all files, compile Test.java
 
 ### Receipt
 Gets Printed in Terminal <br>
-<img width="432" alt="image" src="https://user-images.githubusercontent.com/94568955/199008132-5be0ce75-559e-42e5-8ee9-e4ed74e83041.png">
-
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/94568955/199008519-32768458-cb86-4b76-8688-70c6a7cc4eea.png">
 
 ## Group Members
 Vishan Patel - 100784201 <br>
